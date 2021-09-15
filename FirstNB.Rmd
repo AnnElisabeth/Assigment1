@@ -15,7 +15,9 @@ or by placing your cursor inside it and pressing *Cmd+Shift+Enter*.
 
 ## Nytt spennende avsnitt
 
-Her kommer masse nytt og spennende[@barnes_publish_2010-1]
+Her kommer masse nytt og spennende
+
+asædj d fgadfg sfhg g dgfh dgfh
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or
 by pressing *Cmd+Option+I*.
@@ -28,3 +30,4 @@ The preview shows you a rendered HTML copy of the contents of the
 editor. Consequently, unlike *Knit*, *Preview* does not run any R code
 chunks. Instead, the output of the chunk when it was last run in the
 editor is displayed.
+
